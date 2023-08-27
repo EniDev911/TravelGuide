@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kind: MyString
+  reaction_type: MyString
+  article: one
+  user: one
+  comment: one
+
+two:
+  kind: MyString
+  reaction_type: MyString
+  article: two
+  user: two
+  comment: two
